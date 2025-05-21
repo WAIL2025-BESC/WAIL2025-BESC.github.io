@@ -1,0 +1,18 @@
+# 忽略音频文件
+*.m4a
+*.mp3
+*.mp4
+*.wav
+
+# 忽略特定目录
+documents/podcasts/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 忽略临时文件
+*.tmp
